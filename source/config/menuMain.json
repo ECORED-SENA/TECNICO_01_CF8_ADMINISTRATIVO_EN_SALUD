@@ -1,0 +1,148 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "Elaboracion_de_la_factura",
+    "title": "1. Elaboración de la factura.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "Elaboracion_de_la_factura",
+        "title": "1.1 Documentos considerados soportes.",
+        "anchor": "11"
+      }
+    ]
+
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "Preparacion_y_armado_de_la_cuenta",
+    "title": "2. Preparación y armado de la cuenta.",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "Preparacion_y_armado_de_la_cuenta",
+        "title": "2.1 Radicación de las cuentas.",
+        "anchor": "21"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "Gestion_de_costos_en_salud",
+    "title": "3. Gestión de costos en salud.",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "Costeo_en_salud",
+    "title": "4. Costeo en salud.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/4-tema.html",
+    "submenu": [    
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Costeo_en_salud",
+      "title": "4.1 Tipos de costos.",
+      "anchor": "41"
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Costeo_en_salud",
+      "title": "4.2 Sistema de costos",
+      "anchor": "42"
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Costeo_en_salud",
+      "title": "4.3 Centros costos y su clasificación",
+      "anchor": "43"
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Costeo_en_salud",
+      "title": "4.4 Áreas de una institución prestadora de servicios de salud",
+      "anchor": "44"
+    }
+  ]
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "Contabilidad_conceptos_basicos",
+    "title": "5.  Contabilidad conceptos básicos.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/5-tema.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "Auditoria_de_cuentas_medicas",
+    "title": "6. Auditoría de cuentas médicas.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/6-tema.html",
+    "submenu": [    
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Auditoria_de_cuentas_medicas",
+      "title": "6.1 Auditoria",
+      "anchor": "61"
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Auditoria_de_cuentas_medicas",
+      "title": "6.2 Reclamaciones y recobros",
+      "anchor": "62"
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Auditoria_de_cuentas_medicas",
+      "title": "6.3 Recobros",
+      "anchor": "63"
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Auditoria_de_cuentas_medicas",
+      "title": "6.4 Procedimiento para efectuar recobros al ADRES por concepto de medicamentos, servicios médicos o prestaciones de salud no incluidos en el POS y fallos de tutela.",
+      "anchor": "64"
+    }
+    ]
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "Glosas_y_devoluciones",
+    "title": "7. Glosas y devoluciones.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/7-tema.html",
+    "submenu": [    
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Glosas_y_devoluciones",
+      "title": "7.1 Códigos conceptos generales",
+      "anchor": "71"
+    },
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "Glosas_y_devoluciones",
+      "title": "7.2 Respuestas de glosa o devolución",
+      "anchor": "72"
+    }
+  ]
+  }   
+ 
+]
